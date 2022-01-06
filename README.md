@@ -1,1 +1,2 @@
 # NFT-token
+creating and deploying an ERC-721 smart contract on the Ropsten test network using Metamask, Solidity, Hardhat, Pinata and Alchemy. In Part II of this tutorial_,_ we’ll go through how we can use our smart contract to mint an NFT, and in Part III we’ll cover how to view your NFT on Metamask.

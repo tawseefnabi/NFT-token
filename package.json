@@ -1,0 +1,22 @@
+{
+  "name": "nft-token",
+  "version": "1.0.0",
+  "description": "creating and deploying an ERC-721 smart contract on the Ropsten test network using Metamask, Solidity, Hardhat, Pinata and Alchemy. In Part II of this tutorial_,_ we’ll go through how we can use our smart contract to mint an NFT, and in Part III we’ll cover how to view your NFT on Metamask.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawseefnabi/NFT-token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tawseefnabi/NFT-token/issues"
+  },
+  "homepage": "https://github.com/tawseefnabi/NFT-token#readme",
+  "devDependencies": {
+    "hardhat": "^2.8.0"
+  }
+}
