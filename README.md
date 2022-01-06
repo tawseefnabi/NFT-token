@@ -1,2 +1,15 @@
-# NFT-token
-creating and deploying an ERC-721 smart contract on the Ropsten test network using Metamask, Solidity, Hardhat, Pinata and Alchemy. In Part II of this tutorial_,_ we’ll go through how we can use our smart contract to mint an NFT, and in Part III we’ll cover how to view your NFT on Metamask.
+# Basic Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat accounts
+npx hardhat compile
+npx hardhat clean
+npx hardhat test
+npx hardhat node
+node scripts/sample-script.js
+npx hardhat help
+```
